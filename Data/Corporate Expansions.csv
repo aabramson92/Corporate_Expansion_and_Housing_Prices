@@ -1,0 +1,362 @@
+date,county,jobs,new,expansion
+2017-06,Bronx,400,,1
+2017-03,Bronx,4200,,1
+2016-02,Bronx,300,,1
+2015-08,Bronx,350,,1
+2015-07,Bronx,500,1,
+2015-02,Bronx,3000,1,
+2017-11,Dutchess,28,1,
+2017-10,Dutchess,35,1,
+2017-06,Dutchess,80,1,
+2016-07,Dutchess,870,1,
+2016-04,Dutchess,175,1,
+2016-03,Dutchess,20,1,
+2016-03,Dutchess,125,1,
+2016-03,Dutchess,200,1,
+2015-12,Dutchess,15,1,
+2015-12,Dutchess,369,1,
+2015-07,Dutchess,100,1,
+2014-08,Dutchess,165,1,
+2014-08,Dutchess,1200,,1
+2017-12,Kings,35,,1
+2017-04,Kings,200,,1
+2016-03,Kings,50,,1
+2015-11,Kings,90,1,
+2015-08,Kings,27,,1
+2015-08,Kings,100,1,
+2015-05,Kings,600,1,
+2015-03,Kings,25,1,
+2015-01,Kings,300,1,
+2014-12,Kings,150,1,
+2014-09,Kings,250,1,
+2014-07,Kings,525,,1
+2017-07,Nassau,10,,1
+2017-07,Nassau,30,1,
+2017-07,Nassau,100,1,
+2017-07,Nassau,120,,1
+2017-06,Nassau,50,1,
+2017-06,Nassau,70,1,
+2017-05,Nassau,20,,1
+2017-04,Nassau,350,1,
+2017-03,Nassau,11,,1
+2017-03,Nassau,15,,1
+2017-03,Nassau,30,,1
+2017-03,Nassau,40,,1
+2017-03,Nassau,90,,1
+2017-03,Nassau,450,,1
+2017-02,Nassau,12,1,
+2017-02,Nassau,100,1,
+2016-11,Nassau,175,1,
+2016-11,Nassau,200,1,
+2016-11,Nassau,1300,,1
+2016-10,Nassau,15,1,
+2016-10,Nassau,30,1,
+2016-09,Nassau,100,1,
+2016-07,Nassau,75,,1
+2016-07,Nassau,75,1,
+2016-07,Nassau,100,1,
+2016-06,Nassau,20,1,
+2016-05,Nassau,100,1,
+2016-05,Nassau,300,1,
+2016-04,Nassau,21,1,
+2016-04,Nassau,30,,1
+2016-03,Nassau,21,,1
+2016-02,Nassau,20,1,
+2016-02,Nassau,20,,1
+2016-02,Nassau,35,1,
+2016-02,Nassau,90,1,
+2016-02,Nassau,150,1,
+2016-02,Nassau,300,1,
+2016-02,Nassau,400,1,
+2016-01,Nassau,40,,1
+2016-01,Nassau,40,,1
+2016-01,Nassau,57,,1
+2016-01,Nassau,500,,1
+2015-11,Nassau,5,,1
+2015-11,Nassau,20,1,
+2015-11,Nassau,30,1,
+2015-11,Nassau,40,,1
+2015-11,Nassau,45,1,
+2015-10,Nassau,18,1,
+2015-10,Nassau,20,,
+2015-09,Nassau,275,1,
+2015-08,Nassau,100,1,
+2015-07,Nassau,90,1,
+2015-06,Nassau,40,1,
+2015-06,Nassau,66,,1
+2015-05,Nassau,12,,1
+2015-05,Nassau,300,,1
+2015-04,Nassau,125,,1
+2014-08,Nassau,40,,1
+2014-08,Nassau,40,1,
+2014-08,Nassau,181,1,
+2014-07,Nassau,40,,1
+2014-07,Nassau,200,1,
+2014-06,Nassau,50,1,
+2014-05,Nassau,38,1,
+2014-05,Nassau,70,1,
+2014-05,Nassau,75,,1
+2014-05,Nassau,95,,1
+2014-04,Nassau,9,,1
+2014-04,Nassau,35,,1
+2014-04,Nassau,155,,1
+2014-04,Nassau,350,,1
+2014-04,Nassau,1100,1,
+2014-02,Nassau,10,1,
+2014-02,Nassau,10,1,
+2014-02,Nassau,44,1,
+2014-01,Nassau,66,1,
+2017-11,New York,80,,1
+2017-11,New York,1152,,1
+2017-10,New York,40,,1
+2017-10,New York,2000,,1
+2017-08,New York,30,,1
+2017-07,New York,20,,1
+2017-07,New York,250,,1
+2017-06,New York,13,,1
+2017-06,New York,188,,1
+2017-05,New York,130,,1
+2017-01,New York,1000,,1
+2016-04,New York,60,1,
+2016-04,New York,100,,1
+2016-02,New York,50,,1
+2016-02,New York,200,,1
+2016-01,New York,90,,1
+2015-12,New York,45,,1
+2015-11,New York,193,,1
+2015-09,New York,75,1,
+2015-09,New York,190,,1
+2015-08,New York,615,,1
+2015-07,New York,28,,1
+2015-06,New York,100,,1
+2015-05,New York,250,,1
+2015-04,New York,50,,1
+2015-01,New York,150,,1
+2014-12,New York,475,,1
+2014-12,New York,500,1,
+2014-11,New York,95,,1
+2014-10,New York,125,1,
+2014-09,New York,50,1,
+2014-08,New York,1000,,1
+2014-05,New York,130,,1
+2014-04,New York,350,,1
+2014-03,New York,25,1,
+2014-02,New York,110,1,
+2014-01,New York,300,1,
+2017-11,Orange,28,1,
+2017-10,Orange,1300,1,
+2017-06,Orange,67,1,
+2017-01,Orange,13,,1
+2016-12,Orange,67,,1
+2016-11,Orange,30,1,
+2016-10,Orange,53,1,
+2016-09,Orange,10,,1
+2016-08,Orange,21,1,
+2016-07,Orange,50,1,
+2016-04,Orange,20,,1
+2015-12,Orange,50,1,
+2015-10,Orange,100,,1
+2015-08,Orange,200,,1
+2015-07,Orange,12,1,
+2015-07,Orange,25,,1
+2015-06,Orange,24,1,
+2015-06,Orange,121,1,
+2015-04,Orange,15,1,
+2015-04,Orange,200,,1
+2015-03,Orange,80,1,
+2015-01,Orange,25,1,
+2015-01,Orange,25,,1
+2014-12,Orange,17,1,
+2014-11,Orange,36,,1
+2014-11,Orange,60,,1
+2014-08,Orange,50,,1
+2014-05,Orange,60,1,
+2014-05,Orange,82,1,
+2014-03,Orange,70,1,
+2014-01,Orange,100,,1
+2014-01,Orange,700,1,
+2017-12,Queens,80,,1
+2017-07,Queens,1000,,1
+2017-12,Richmond,45,,1
+2017-09,Richmond,2250,,1
+2017-08,Richmond,1137,,1
+2017-04,Richmond,100,,1
+2016-01,Richmond,1500,1,
+2015-07,Richmond,150,1,
+2015-03,Richmond,1300,1,
+2017-07,Rockland,150,1,
+2017-02,Rockland,50,1,
+2016-08,Rockland,80,1,
+2016-08,Rockland,250,1,
+2016-06,Rockland,128,1,
+2015-09,Rockland,125,1,
+2017-07,Suffolk,15,,1
+2017-07,Suffolk,21,,1
+2017-07,Suffolk,24,1,
+2017-07,Suffolk,25,,1
+2017-07,Suffolk,33,,1
+2017-07,Suffolk,50,,1
+2017-07,Suffolk,150,,1
+2017-06,Suffolk,18,,1
+2017-06,Suffolk,30,,1
+2017-06,Suffolk,60,,1
+2017-05,Suffolk,200,1,
+2017-04,Suffolk,10,,1
+2017-04,Suffolk,40,,1
+2017-03,Suffolk,8,,1
+2017-03,Suffolk,100,,1
+2017-03,Suffolk,110,1,
+2017-03,Suffolk,450,,1
+2017-03,Suffolk,2000,1,
+2017-02,Suffolk,7,,1
+2016-12,Suffolk,30,,1
+2016-12,Suffolk,160,1,
+2016-10,Suffolk,9,,1
+2016-10,Suffolk,30,,1
+2016-09,Suffolk,5,,1
+2016-09,Suffolk,10,,1
+2016-09,Suffolk,10,,1
+2016-09,Suffolk,44,,1
+2016-09,Suffolk,150,1,
+2016-09,Suffolk,350,1,
+2016-08,Suffolk,30,,1
+2016-08,Suffolk,90,1,
+2016-08,Suffolk,108,1,
+2016-08,Suffolk,125,,1
+2016-07,Suffolk,8,,1
+2016-07,Suffolk,20,,1
+2016-07,Suffolk,23,,1
+2016-07,Suffolk,25,,1
+2016-07,Suffolk,25,,1
+2016-07,Suffolk,25,,1
+2016-07,Suffolk,30,,1
+2016-07,Suffolk,41,,1
+2016-07,Suffolk,75,,1
+2016-06,Suffolk,6,,1
+2016-06,Suffolk,10,,1
+2016-06,Suffolk,18,1,
+2016-06,Suffolk,20,1,
+2016-06,Suffolk,40,,1
+2016-05,Suffolk,35,,1
+2016-05,Suffolk,175,1,
+2016-05,Suffolk,200,1,
+2016-04,Suffolk,20,,1
+2016-04,Suffolk,20,,1
+2016-03,Suffolk,8,,1
+2016-03,Suffolk,24,,1
+2016-02,Suffolk,10,,1
+2016-02,Suffolk,11,1,
+2016-02,Suffolk,16,,1
+2016-02,Suffolk,17,,1
+2016-02,Suffolk,143,1,
+2016-02,Suffolk,150,1,
+2016-02,Suffolk,175,,1
+2016-02,Suffolk,280,1,
+2016-01,Suffolk,10,,1
+2016-01,Suffolk,10,,1
+2016-01,Suffolk,20,,1
+2016-01,Suffolk,20,,1
+2016-01,Suffolk,25,,1
+2016-01,Suffolk,27,,1
+2016-01,Suffolk,40,,1
+2016-01,Suffolk,50,,1
+2016-01,Suffolk,400,,1
+2015-11,Suffolk,6,,1
+2015-11,Suffolk,145,1,
+2015-11,Suffolk,300,,1
+2015-10,Suffolk,38,1,
+2015-10,Suffolk,80,1,
+2015-09,Suffolk,42,1,
+2015-09,Suffolk,150,,1
+2015-08,Suffolk,10,,1
+2015-08,Suffolk,30,,1
+2015-08,Suffolk,30,,1
+2015-08,Suffolk,36,,1
+2015-08,Suffolk,54,1,
+2015-07,Suffolk,16,,1
+2015-06,Suffolk,5,,1
+2015-06,Suffolk,10,,1
+2015-06,Suffolk,20,,1
+2015-06,Suffolk,103,1,
+2015-06,Suffolk,2600,1,
+2015-05,Suffolk,10,,1
+2015-05,Suffolk,12,,1
+2015-05,Suffolk,25,1,
+2015-04,Suffolk,26,,1
+2015-04,Suffolk,30,,1
+2015-04,Suffolk,85,,1
+2015-04,Suffolk,239,,1
+2014-08,Suffolk,20,,1
+2014-08,Suffolk,20,1,
+2014-08,Suffolk,50,1,
+2014-08,Suffolk,55,1,
+2014-08,Suffolk,80,1,
+2014-08,Suffolk,104,1,
+2014-07,Suffolk,20,,1
+2014-07,Suffolk,28,,1
+2014-07,Suffolk,33,,1
+2014-07,Suffolk,104,1,
+2014-07,Suffolk,2681,1,
+2014-06,Suffolk,10,,1
+2014-06,Suffolk,20,,1
+2014-06,Suffolk,25,1,
+2014-06,Suffolk,30,,1
+2014-06,Suffolk,50,,1
+2014-06,Suffolk,100,,1
+2014-06,Suffolk,110,,1
+2014-05,Suffolk,250,1,
+2014-04,Suffolk,10,,1
+2014-04,Suffolk,16,,1
+2014-04,Suffolk,30,1,
+2014-04,Suffolk,40,,1
+2014-04,Suffolk,200,,1
+2014-03,Suffolk,51,,1
+2014-01,Suffolk,17,,1
+2014-01,Suffolk,20,,
+2014-01,Suffolk,40,,1
+2014-01,Suffolk,170,,1
+2014-01,Suffolk,900,,1
+2017-10,Sullivan,1500,1,
+2017-01,Sullivan,40,,1
+2017-01,Sullivan,1400,1,
+2016-07,Sullivan,10,1,
+2016-04,Sullivan,55,,1
+2014-12,Sullivan,1305,1,
+2016-05,Ulster,600,1,
+2015-10,Ulster,60,1,
+2014-12,Ulster,20,,1
+2014-12,Ulster,39,,1
+2014-09,Ulster,120,1,
+2017-09,Westchester,26,1,
+2017-09,Westchester,180,,1
+2017-05,Westchester,60,1,
+2017-05,Westchester,340,1,
+2017-05,Westchester,584,,1
+2017-03,Westchester,2800,1,
+2016-12,Westchester,150,1,
+2016-08,Westchester,25,1,
+2016-05,Westchester,560,1,
+2016-03,Westchester,180,,1
+2016-03,Westchester,2800,1,
+2016-01,Westchester,8000,1,
+2015-11,Westchester,120,1,
+2015-11,Westchester,300,,1
+2015-10,Westchester,100,1,
+2015-09,Westchester,72,1,
+2015-09,Westchester,250,1,
+2015-08,Westchester,43,1,
+2015-08,Westchester,650,1,
+2015-03,Westchester,100,1,
+2015-03,Westchester,200,,1
+2015-02,Westchester,20,1,
+2015-02,Westchester,80,1,
+2015-01,Westchester,50,1,
+2014-12,Westchester,50,1,
+2014-12,Westchester,110,1,
+2014-12,Westchester,270,1,
+2014-08,Westchester,15,,1
+2014-06,Westchester,80,1,
+2014-05,Westchester,50,1,
+2014-03,Westchester,25,,1
+2014-03,Westchester,50,1,
+2014-03,Westchester,90,,1
