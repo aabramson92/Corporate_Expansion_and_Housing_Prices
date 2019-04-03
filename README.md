@@ -1,4 +1,4 @@
-Passion Project Summary
+The Effect of Corporate Expansion on Housing Prices
 
 I) Design
 
@@ -46,7 +46,7 @@ X13: inc_pc|	The level of income per capita in a county|	Bureau of Labor Statist
 X14: inc_pc_change|	The percentage change in the level of income per capita in a county from the prior year|	Bureau of Labor Statistics
 X15: emp_popul|	The ratio of employers and residents in a county|	"Bureau of Labor Statistics &  US Census Bureau"
 X16: emp_change|	The percentage change in the number of employers in a county from the prior year|	Bureau of Labor Statistics
-X17: inf_change|	The percentage change in the inflation rate from the prior year|	
+X17: inf_change|	The percentage change in the inflation rate from the prior year|	Bureau of Labor Statistics
 
 IV) Results
 
